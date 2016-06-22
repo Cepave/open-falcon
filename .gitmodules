@@ -67,3 +67,6 @@
 [submodule "aggregator"]
 	path = aggregator
 	url = https://github.com/Cepave/aggregator.git
+[submodule "nqm-agent"]
+	path = nqm-agent
+	url = https://github.com/Cepave/nqm-agent.git
